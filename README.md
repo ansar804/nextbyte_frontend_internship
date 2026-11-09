@@ -1,2 +1,2 @@
-# nextbyte_frontend_internship
+# Nextbyte_Frontend_Internship
 Frontend Internship Project
